@@ -18,7 +18,7 @@ An AI-powered recipe generator that transforms your available ingredients into d
 
 - **React** - Frontend framework
 - **Vite** - Build tool and development server
-- **Claude AI / Hugging Face Mistral** - Recipe generation (configurable)
+- **Claude AI / Hugging Face ** - Recipe generation (configurable)
 - **CSS3** - Styling and animations
 - **JavaScript ES6+** - Modern JavaScript features
 
@@ -31,7 +31,7 @@ This app supports both premium and free AI APIs:
 - Better ingredient understanding
 - Requires paid Anthropic API access
 
-### Option 2: Hugging Face Mistral (Free)
+### Option 2: Hugging Face (Free)
 - Free API access
 - Good recipe generation
 - Perfect for learning and development
